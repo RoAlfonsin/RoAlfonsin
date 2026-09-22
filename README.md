@@ -1,97 +1,40 @@
-<h1 align="center">Rodrigo Alfonsin</h1>
-<h3 align="center">Full-Stack Developer</h3>
-<h5 align="center">Python · JavaScript · FastAPI · React · PostgreSQL · GIT · SQL</h5>
+```markdown
+# Rodrigo Alfonsin
 
-<p align="center">
-Building and deploying production-ready applications used by real communities
-</p>
+**Senior Full-Stack Engineer** — React · React Native · Expo · Next.js ·
+TypeScript · Supabase · PostgreSQL
 
----
+I help startups go from idea to production: mobile apps, web platforms, and
+the backend underneath — one engineer, end to end. Based in Querétaro, Mexico
+(CST) — full overlap with US working hours.
 
-## 🚀 Summary
+## What I build
 
-Full-Stack Developer with a background in Industrial Engineering, focused on building **scalable, real-world applications**.
+- **Mobile** — React Native / Expo apps, push notifications, EAS build & release
+- **Web** — Next.js / React apps, dashboards, internal tools
+- **Backend** — Supabase / PostgreSQL, row-level security, real-time, FastAPI
+- **Integrations** — Stripe, Mapbox, AI features (Anthropic, Google AI)
 
-I specialize in:
-- Designing and shipping **end-to-end products**
-- Building **REST APIs and real-time systems**
-- Creating platforms that **connect users and drive engagement**
+## Selected work
 
----
+- **iCare** — first engineer. Multi-tenant emergency-response platform:
+  React Native app + React admin portal + Supabase backend with RLS and
+  PostGIS location tracking. Stripe, Mapbox, Expo push notifications.
+- **Megafrescos** — unified operations platform (Next.js, Supabase, Inngest)
+  with an Anthropic-powered AI assistant querying live operational data in
+  plain English.
+- **Padel Growth Media Connect** — real-time match coordination for
+  **900+ players across 10+ clubs** (React, FastAPI, PostgreSQL).
 
-## 🛠️ Tech Stack
+## Before engineering
 
-**Frontend**
-- React
-- JavaScript (ES6+)
-- Mantine
-- State Management & API Integration
+Years in key account management — 90%+ client retention. I ask about the
+business goal before the tech stack, and I write updates a non-technical
+founder can act on.
 
-**Backend**
-- Python
-- FastAPI
-- REST API Design
-- JWT Authentication
+## Elsewhere
 
-**Database & Tools**
-- PostgreSQL
-- Supabase
-- Firebase
-- Git / GitHub
-
----
-
-## 🔥 Key Project
-
-### 🎾 Padel Growth Media Connect  
-**Full-Stack Application for Sports Event & Community Management**
-
-- Built and deployed using **React + FastAPI**
-- Designed **RESTful APIs with JWT authentication**
-- Implemented **real-time event capacity and participation logic**
-- Managed **dynamic workflows for roles, events, and users**
-- Used in real environments to coordinate players and clubs
-
-🔗 https://github.com/RoAlfonsin/padel-growth-media-connect
-
----
-
-## 📈 Impact
-
-- 📊 Built systems supporting a **900+ player community**
-- 🏟️ Supported operations across **10+ sports clubs**
-- ⚙️ Developed tools used for **real event coordination and engagement**
-
----
-
-## 💼 Experience
-
-### Business Development Lead — Padel Growth Media
-- Led growth and operations for a sports-tech platform
-- Collaborated on product development and digital infrastructure
-- Connected technology with real user needs
-
----
-
-## 🌐 Links
-
-- LinkedIn: https://www.linkedin.com/in/rodrigo-alfonsin-de-la-vega/  
-- Email: ro@roalfonsin.com  
-
----
-
-## ⚡ What I’m Looking For
-
-- Full-Stack / Backend roles  
-- Early-stage startups or product-driven teams  
-- Opportunities to build **real, user-facing systems**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoAlfonsin&show_icons=true&theme=cobalt&include_all_commits=true&&hide=stars,contribs" />
-</p>
-
----
+- Upwork: [add profile URL — use custom URL once claimed in Phase 2]
+- LinkedIn: linkedin.com/in/rodrigo-alfonsin-de-la-vega
+- Site: roalfonsin.com · Email: ro@roalfonsin.com
+```
