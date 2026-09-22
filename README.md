@@ -1,4 +1,3 @@
-```markdown
 # Rodrigo Alfonsin
 
 **Senior Full-Stack Engineer** — React · React Native · Expo · Next.js ·
@@ -37,4 +36,3 @@ founder can act on.
 - Upwork: [add profile URL — use custom URL once claimed in Phase 2]
 - LinkedIn: linkedin.com/in/rodrigo-alfonsin-de-la-vega
 - Site: roalfonsin.com · Email: ro@roalfonsin.com
-```
