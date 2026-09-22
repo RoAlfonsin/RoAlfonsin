@@ -34,5 +34,4 @@ founder can act on.
 ## Elsewhere
 
 - Upwork: [add profile URL — use custom URL once claimed in Phase 2]
-- LinkedIn: linkedin.com/in/rodrigo-alfonsin-de-la-vega
-- Site: roalfonsin.com · Email: ro@roalfonsin.com
+- Email: ro@roalfonsin.com
